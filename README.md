@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I'm a student and I am really interested in coding! I've learned C++ and Java for these past few months and hitting on HTML soon!
+Still learning!
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [haziqfaruqi@gmail.com](mailto:haziqfaruqi@gmail.com)
-* 🧠  I'm learning HTML
-* 🤝  I'm open to collaborating on new projects using C++ or JAVA
+* 🧠  I'm learning Laravel framework
+* 🤝  I'm open to collaborating on new projects
 * ⚡  Hoping on a new challenge makes it more interesting, isn't?
 
 ### Skills
