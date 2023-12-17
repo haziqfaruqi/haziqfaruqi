@@ -20,7 +20,7 @@ Still learning!
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="http://www.w3.org/2000/svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" width="36" height="36" alt="Laravel" /></a>
   
 </p>
 
